@@ -1,1 +1,2 @@
 # Prodigy_Task4
+A fully simple,responsive portfolio website that showcases my skills,projects,achivements as a web developer. We also design an attractive and visually appealing layout which captures visitor's attention along with this we also included a home page with a catchy headline,professional photo and summary of my skills. Along with this "about me" section has been included having a detail background, education and professional experience.
